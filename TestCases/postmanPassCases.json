@@ -37,7 +37,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+    "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 1.5,
@@ -57,7 +59,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 2,
@@ -77,7 +81,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 4,
@@ -97,7 +103,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 4.5,
@@ -117,7 +125,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 5.5,
@@ -137,7 +147,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 6.5,
@@ -157,7 +169,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 7,
@@ -177,7 +191,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 7.5,
@@ -197,7 +213,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 8,
@@ -217,7 +235,9 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   },
   {
     "parking_duration": 8.5,
@@ -237,6 +257,8 @@
     "parking_lot_lat": 48.86742,
     "car_lon": 2.3285997,
     "car_lat": 48.855699,
-    "badges": "[0]"
+    "badges": "[0]",
+     "metadata": true,
+    "context":true
   }
 ]
