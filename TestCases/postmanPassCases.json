@@ -19,7 +19,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
  {
     "parking_duration": 6,
@@ -41,7 +42,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
     "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 1.5,
@@ -63,7 +65,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 2,
@@ -85,7 +88,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 4,
@@ -107,7 +111,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 4.5,
@@ -129,7 +134,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 5.5,
@@ -151,7 +157,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 6.5,
@@ -173,7 +180,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 7,
@@ -195,7 +203,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 7.5,
@@ -217,7 +226,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 8,
@@ -239,7 +249,8 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   },
   {
     "parking_duration": 8.5,
@@ -261,6 +272,7 @@
     "car_lat": 48.855699,
     "badges": "[0]",
      "metadata": true,
-    "context":true
+    "context":true,
+"start_parking_time_date_string"="17:14,5"
   }
 ]
